@@ -101,6 +101,8 @@ jwt.secret=your_secret_key
  <img src="https://github.com/SakshiManjrekar162/SportsCenter-Full-Stack-E-Commerce-Project/blob/main/client/public/images/Store%20Page.png" /
 </p>
 <p>
+ <img src="https://github.com/SakshiManjrekar162/SportsCenter-Full-Stack-E-Commerce-Project/blob/main/client/public/images/Product%20View%20Page.png" />
+<p>
 <img src="https://github.com/SakshiManjrekar162/SportsCenter-Full-Stack-E-Commerce-Project/blob/main/client/public/images/Checkout%20Page.png" />
 </p>
 
